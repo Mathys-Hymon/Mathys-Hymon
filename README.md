@@ -5,7 +5,8 @@ I am currently in my third year of Game/Engine Programming at ArtFX Montpellier,
 
 ## Languages & Tools
 
-<img align"left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/icons/cplusplus/cplusplus-line.svg">
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/icons/cplusplus/cplusplus-line.svg">
+<br/>
 <!--
 **Mathys-Hymon/Mathys-Hymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
