@@ -1,5 +1,9 @@
-## 🌵 Mathys (Tortue_fou) Hymon 🌵
+## 🌵 Mathys Hymon 🌵
+**`Learning Game / Engine programming`**
 
+I am currently in my third year of Game/Engine Programming at ArtFX Montpellier, where I am learning the fundamentals of creating and developing game engines and interactive experiences.
+
+## Languages & Tools
 <!--
 **Mathys-Hymon/Mathys-Hymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
