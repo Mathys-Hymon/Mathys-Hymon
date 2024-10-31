@@ -6,7 +6,7 @@ I am currently in my third year of Game/Engine Programming at ArtFX Montpellier,
 ## Languages & Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg">
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg">
 <br/>
 <!--
