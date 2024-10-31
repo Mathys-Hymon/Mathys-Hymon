@@ -4,6 +4,8 @@
 I am currently in my third year of Game/Engine Programming at ArtFX Montpellier, where I am learning the fundamentals of creating and developing game engines and interactive experiences.
 
 ## Languages & Tools
+
+<img align"left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/icons/cplusplus/cplusplus-line.svg">
 <!--
 **Mathys-Hymon/Mathys-Hymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
