@@ -1,7 +1,7 @@
 ## 🌵 Mathys Hymon 🌵
 **`Learning Game / Engine programming`**
 
-I am currently in my third year of Game/Engine Programming at ArtFX Montpellier, where I am learning the fundamentals of creating and developing game engines and interactive experiences.
+I am currently in my fourth year of Game/Engine Programming at ArtFX Montpellier, where I am learning the fundamentals of creating and developing game engines and interactive experiences.
 
 ## Languages & Tools
 
